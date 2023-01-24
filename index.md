@@ -84,13 +84,13 @@ All information about the course will be posted here.
 
 * **Feb 1** - [Lab03: Git and eGit Lab PartI](labs/lab03.html) is posted, and is **due by the start of class, Friday, 2-4-22**.  You are required to establish your GitHub account, create the SSH key pair to access it, and Fork the example project (do all steps through Step 4: Fork).  You may certainly do more than this - we will be getting to Part II of this lab next week. 
 
-* **Jan 24** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones. 
-* **Jan 24** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones. 
-* **Jan 24** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted and is **due by 7:00am, Sunday, 2-6-22**. 
-* **Jan 24** - [Class Rosters](teams-and-rosters/index.html) are posted - choose your teams. 
-* **Jan 24** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html). 
-* **Jan 24** - [Lab01: HTML and CSS](labs/lab01.html) is posted and is **due by 7:00am, Thursday, 2-3-22**. 
+* **Jan 27** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones. 
+* **Jan 27** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones. 
+* **Jan 27** - [Assign02: Individual Project Proposal](assign/assign02.html) is posted and is **due by 7:00am, Sunday, 2-6-22**. 
+* **Jan 27** - [Class Rosters](teams-and-rosters/index.html) are posted - choose your teams. 
+* **Jan 27** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html). 
+* **Jan 27** - [Lab01: HTML and CSS](labs/lab01.html) is posted and is **due by 7:00am, Thursday, 2-3-22**. 
 
 -->
 
-* **Jan 24** - Welcome back to Kinsley and the most **FUN** you've ever had in a CS course (and where you'll discover just how much **WORK** it takes to have so much **FUN**...!  :-)
+* **Jan 27** - Welcome back to Kinsley and the most **FUN** you've ever had in a CS course (and where you'll discover just how much **WORK** it takes to have so much **FUN**...!  :-)
