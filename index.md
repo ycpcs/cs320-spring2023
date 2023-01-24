@@ -3,21 +3,21 @@ layout: default
 title: Home page
 ---
 
-# Welcome to CS 320, Spring 2022!
+# Welcome to CS 320, Spring 2023!
 
-This is the website for CS 320, Spring 2022 at York College.
+This is the website for CS 320, Spring 2023 at York College.
 All information about the course will be posted here.
 
 ## Links
 
 * [Syllabus](syllabus.html)
 * [Schedule](schedule.html)
-* [Calendar](CS320-Spring2022Calendar.pdf)
+* [Calendar](CS320-Spring2023Calendar.pdf)
 * [Project Teams and Rosters](teams-and-rosters/index.html)
 * [Assignments](assign/index.html)
 * [Labs](labs/index.html)
 * [Projects](projects/index.html)
-* [Tutoring](CS320-Sp22-TutoringSchedule.pdf)
+* [Tutoring](CS320-Sp23-TutoringSchedule.pdf)
 * [Resources](resources/index.html)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 
