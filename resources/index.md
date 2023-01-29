@@ -12,16 +12,6 @@ Hypertext Mark-Up Language (HTML) and Cascading Style Sheets (CSS)
 
 [Free Code Camp](https://www.freecodecamp.org): Covers HTML/CSS (you need to create a free account)
 
-[Basic HTML Tutorial](http://www.htmliseasy.com/html_tutor/index.html): Tutorial site for Basic HTML
-
-[HTML Forms Tutprial](http://www.htmliseasy.com/form_tutor/lesson01.html): Tutorial site for creating HTML Forms
-
-[HTML Tables Tutorial](http://www.htmliseasy.com/table_tutor/index.html): Tutorial site for creating HTML tables
-
-[Basic CSS Tutorial](http://www.htmliseasy.com/css_tutor/index.html): Tutorial site for using CSS
-
-[CSS Reference](http://www.htmliseasy.com/wdgcss/index.html): CSS reference guide from Web Design Group
-
 [Bootstrap](http://www.w3schools.com/bootstrap/default.asp): A visual editor for creating web front-ends
 
 [Brackets](http://brackets.io/): A visual editor for working on HTML/CSS
@@ -40,8 +30,6 @@ JavaScript (JS)
 
 [JavaScript Tutorial - w3schools](https://www.w3schools.com/js/default.asp): JavaScript tutorial w/sandbox from **w3shools.com**
 
-[JavaScript Tutorial](http://www.htmliseasy.com/javascript/index.html): Basic JavaScript tutorial
-
 [Free Code Camp](https://www.freecodecamp.org): Covers various JavaScript versions (you need to create a free account)
 
 Unified Modeling Language (UML)
@@ -49,7 +37,7 @@ Unified Modeling Language (UML)
 
 [UML Diagrams](http://usna86-techbits.blogspot.de/2012/11/uml-class-diagram-relationships.html): A concise explanation of UML relationships and diagrams
 
-[Violet UML Download](violetumleditor-2.1.0.jar): Use Violet UML for your project UML diagrams
+[Violet UML Download](./violetumleditor-2.1.0.jar): Use Violet UML for your project UML diagrams
 
 Git, GitHub, and eGit
 =====================
@@ -80,7 +68,7 @@ Relational Databases and Structured Query Language (SQL)
 
 [Free Code Camp](https://www.freecodecamp.org): Covers SQL Databases (you need to creaate a free account)
 
-[CS320\_Derby.zip](CS320_Derby.zip): Eclipse project with jarfiles for Apache Derby (relational database)
+[CS320\_Derby.zip](./CS320_Derby.zip): Eclipse project with jarfiles for Apache Derby (relational database)
 
 > <div class="callout"><b>When you implement the persistence layer using Derby for your team project</b>: when specifying the JDBC URL in the code where you connect to the database, you should use an absolute file name for the database name. For example, <code>jdbc:derby:H:/mydatabase.db;create=true</code> (this will create the database as <code>H:/mydatabase.db</code>).  If you use a relative file name, your web application will probably not find the database (because it runs in the <code>war</code> directory rather than the root directory of the project).</div>
 
