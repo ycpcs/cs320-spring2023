@@ -18,11 +18,15 @@ You have six tasks:
 
 Example: Professor Zeller would refactor the copy of his **CS320\_Lab02\_dzeller** project to **CS320\_Lab02a\_dzeller** first thing after he imported the project into Eclipse.
 
+<!-- Commenting out this part - it is too much of a PITA
+
 After you refactor the project name, refactor the package names, change the locations specified in **Web.xml** and the JSP's, as well as the context folder specified in **main()** so that they all refer to **lab02a\_username**. Verify that both of the **AddNumbers** and **GuessingGame** WebApps still work - you will no longer be able to use the URL links included on the **CS320\_Lab02** page, you will need to modify those URLs to replace **lab02** with **lab02a\_username**.  You should save those new URLs as bookmarks in your browser.
+
+-->
 
 * Add a third number to the **AddNumbers** example, such that a third number field shows up on the **AddNumbers** web page, and the returned result is the sum of all three numbers.  Your code should check for the same errors as the existing **AddNumbers** example does.  This problem will require changes to the **AddNumbers** servlet, controller, and JSP.
 
-* Create a new WebApp based on the **AddNumbers** example, called **MultiplyNumbers**.  This WebApp should accept two numbers from the user and return the product of those numbers.  It should check for all of the same errors that the existing **AddNumbers** example does.  This problem will require changes to **Web.xml**, and the controller (modify the existing **AddNumbersController** and rename it **NumbersController**, rather than creating a new controller).  You will also need to create a new **MultiplyNumbers** servlet and new **MultiplyNumbers** JSP file, both of which can be based off the **AddNumbers** versions of those files.
+* Create a new WebApp based on the **AddNumbers** example, called **MultiplyNumbers**.  This WebApp should accept two numbers from the user and return the product of those numbers.  It should check for all of the same errors that the existing **AddNumbers** example does.  This problem will require changes to **Web.xml**, and the controller (modify the existing **AddNumbersController** and refactor it to **NumbersController**, rather than creating a new controller).  You will also need to create a new **MultiplyNumbers** servlet and new **MultiplyNumbers** JSP file, both of which can be based off the **AddNumbers** versions of those files.
 
 * After you have modified **AddNumbers** and created **MultiplyNumbers** and have them both completely working, modify the existing **Index** JSP file so that you can access all three of the servlets (**AddNumbers**, **MultiplyNumbers**, and **GuessingGame**) from the **Index** page.  Implement this is a collection of three "submit" buttons, each labelled with one of the three functions.  Each button will result in **IndexServlet** issuing a **doGet** to the appropriate JSP.
 
