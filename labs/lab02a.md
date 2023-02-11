@@ -49,10 +49,12 @@ Here is a [PDF version of the complete sign-off criteria](CS320-Lab02a-WebApplic
 
 Although you should strive to satisfy all of the above tests, a minimum passing submission must have the following:
 * An **operational Index page** that links to all 3 applications
-* The **Add Numbers page** must allow entry of three numbers
+* The **Add Numbers page** must allow entry of three numbers, and provide the correct result
+* The **Multiply Numbers page** must allow entry of two numbers and provide rhe correct result
 * A **Numbers.java** model file
+* A **NumbersController.java** controller file
 * **AddNumbers.JSP** and **MultiplyNumbers.JSP** must pull their field data directly from **Numbers.java** and **NOT** from the parameter values passed in through the HTTP POST received by the the Servlet.
-* There will be at least **some test cases** for the methods in **MultiplyNumbersController.java** and **Numbers.java**
+* There will be at least **some test cases** for the methods in **NumbersController.java** and **Numbers.java**
 
 When you are done, submit the lab to the Marmoset server using the method below.
 
