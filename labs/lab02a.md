@@ -14,9 +14,9 @@ This lab builds upon the **AddNumbers** and **GuessingGame** examples from [CS32
 
 You have six tasks:
 
-* First, make a copy of the **CS320\_Lab02_username** project, and then refactor that copy to **CS320\_Lab02a\_username**.  YOU MUST DO THIS BEFORE YOU EXPORT YOUR SOLUTION AND SUBMIT IT TO MARMOSET.  **Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
+* First, make a copy of the **CS320\_Lab02_username** project, and then rename that copy to **CS320\_Lab02a\_username**.  YOU MUST DO THIS BEFORE YOU EXPORT YOUR SOLUTION AND SUBMIT IT TO MARMOSET.  **Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
 
-Example: Professor Zeller would refactor the copy of his **CS320\_Lab02\_dzeller** project to **CS320\_Lab02a\_dzeller** first thing after he imported the project into Eclipse.
+Example: Professor Zeller would refactor the copy of his **CS320\_Lab02a\_dzeller** project to **CS320\_Lab02a\_dzeller** first thing after he imported the project into Eclipse.
 
 <!-- Commenting out this part - it is too much of a PITA
 
@@ -66,5 +66,3 @@ Save your project (**CS320\_Lab02a\_username**) to a zip file by right-clicking 
 Upload the saved zip file to the **Lab02a** project on the Marmoset server. The server URL is
 
 > [https://cs.ycp.edu/marmoset/](https://cs.ycp.edu/marmoset/)
-
-
