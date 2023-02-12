@@ -13,7 +13,7 @@ In fact, your team will likely be using Lab06 as the basis for your team project
 
 **NOTE: For Lab02a, Lab05, and Lab06 (the labs that require programming submissions), you MUST also rename the project to include your username - BEFORE YOU EXPORT IT AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
 
-Example: If Professor Zeller was submitting Lab02, he would rename the **CS320\_Lab02** project to **CS320\_Lab02\_dzeller** first thing after importing the project into Eclipse.  You should do the same with your user name for all three Java programming projects that are listed above.
+Example: If Professor Hake was submitting Lab02, he would rename the **CS320\_Lab02** project to **CS320\_Lab02\_djhake2** first thing after importing the project into Eclipse.  You should do the same with your user name for all three Java programming projects that are listed above.
 
 
 Due Date | Lab | File

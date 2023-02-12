@@ -7,9 +7,9 @@ title: "Lab 6: ORM"
 
 Download [CS320\_Lab06.zip](CS320_Lab06.zip). Import it into your Eclipse workspace (**File&rarr;Import...&rarr;General&rarr;Existing projects into workspace&rarr;Archive File**). You will see a project called **CS320\_Lab06** in the Package Explorer.   (You will also need to have the **CS320_Derby** project in your workspace, which should already be there from [Lab 4](lab04.html).)
 
-**NOTE:** You MUST refactor the name of the **CS320\_Lab06** project to include your username - BEFORE YOU EXPORT IT AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.
+**NOTE:** You MUST rename the **CS320\_Lab06** project to include your username - BEFORE YOU EXPORT IT AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.
 
-Example: If Professor Zeller was submitting Lab06, he would refactor the **CS320\_Lab06** project to **CS320\_Lab06\_dzeller** first thing after he imported the project into Eclipse.
+Example: If Professor Hake was submitting Lab06, he would rename the **CS320\_Lab06** project to **CS320\_Lab06\_djhake2** first thing after he imported the project into Eclipse.
 
 Start by creating **test.db**, which is the [books database from Lecture 13](../lectures/lecture13.html).  Execute the **DerbyDatabase** class as a Java application: you should see the following output:
 

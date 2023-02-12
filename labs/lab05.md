@@ -14,9 +14,9 @@ The lab contains a database called **test.db**, which is the [books database fro
 
 Task
 ====
-**NOTE:** You MUST refactor the name of the **CS320_Lab05** project to include your username - BEFORE YOU EXPORT IT AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.
+**NOTE:** You MUST rename the **CS320_Lab05** project to include your username - BEFORE YOU EXPORT IT AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.
 
-Example: If Professor Zeller was submitting this lab, he would refactor the **CS320\_Lab05** project to **CS320\_Lab05\_dzeller** first thing after he imported the project into Eclipse.
+Example: If Professor Hake was submitting this lab, he would rename the **CS320\_Lab05** project to **CS320\_Lab05\_djhake2** first thing after he imported the project into Eclipse.
 
 In the lab skeleton you will find a program called **TitleQuery** which demonstrates basic JDBC tasks such as loading a driver, connecting to a database, creating and executing a prepared statement, and iterating through results returned from a query.
 
