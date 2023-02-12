@@ -10,9 +10,9 @@ Import [CS320\_Jetty9.zip](CS320_Jetty9.zip) and [CS320\_Lab02.zip](CS320_Lab02.
 
 You should see two new projects in your workspace, **CS320\_Jetty9** and **CS320\_Lab02**.
 
-**NOTE:** Now refactor the name of the **CS320\_Lab02** project to include your username - YOU MUST DO THIS BEFORE YOU EXPORT YOUR SOLUTION AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.
+**NOTE:** Now rename the **CS320\_Lab02** project to include your username - YOU MUST DO THIS BEFORE YOU EXPORT YOUR SOLUTION AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.
 
-Example: If Professor Zeller was submitting this project, he would refactor the **CS320_Lab02** project to **CS320\_Lab02\_dzeller** first thing after he imported the project into Eclipse.
+Example: If Professor Zeller was submitting this project, he would rename the **CS320_Lab02** project to **CS320\_Lab02\_dzeller** first thing after he imported the project into Eclipse.
 
 See **AddNumbers.java**, **\_view/addNumbers.jsp**, and **AddNumbersServlet.java** to understand how the model, view, and servlet classes work for the AddNumbers example.
 
