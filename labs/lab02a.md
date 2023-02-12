@@ -24,7 +24,7 @@ Example: Professor Hake would rename the copy of his **CS320\_Lab02a\_djhake2** 
 
 > [http://localhost:8081/lab02/addNumbers](http://localhost:8081/lab02/addNumbers)
 
-> [http://localhost:8081/lab02/mutiplyNumbers](http://localhost:8081/lab02/multiplyNumbers)
+> [http://localhost:8081/lab02/multiplyNumbers](http://localhost:8081/lab02/multiplyNumbers)
 
 > [http://localhost:8081/lab02/guessingGame](http://localhost:8081/lab02/guessingGame)
 
