@@ -21,8 +21,11 @@ Example: Professor Hake would rename the copy of his **CS320\_Lab02a\_djhake2** 
 **NOTE:** For testing purposes, we recommend that you save the following URLs, which you will need to access each web page, as bookmarks in your browser.
 
 > [http://localhost:8081/lab02/index](http://localhost:8081/lab02/index)
+
 > [http://localhost:8081/lab02/addNumbers](http://localhost:8081/lab02/addNumbers)
+
 > [http://localhost:8081/lab02/mutiplyNumbers](http://localhost:8081/lab02/multiplyNumbers)
+
 > [http://localhost:8081/lab02/guessingGame](http://localhost:8081/lab02/guessingGame)
 
 <!-- Commenting out this part - it is too much of a PITA
