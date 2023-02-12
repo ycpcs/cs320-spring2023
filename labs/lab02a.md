@@ -18,6 +18,13 @@ You have six tasks:
 
 Example: Professor Hake would rename the copy of his **CS320\_Lab02a\_djhake2** project to **CS320\_Lab02a\_djhake2** first thing after he imported the project into Eclipse.
 
+**NOTE:** For testing purposes, we recommend that you save the following URLs, which you will need to access each web page, as bookmarks in your browser.
+
+> [http://localhost:8081/lab02/index](http://localhost:8081/lab02/index)
+> [http://localhost:8081/lab02/addNumbers](http://localhost:8081/lab02/addNumbers)
+> [http://localhost:8081/lab02/mutiplyNumbers](http://localhost:8081/lab02/multiplyNumbers)
+> [http://localhost:8081/lab02/guessingGame](http://localhost:8081/lab02/guessingGame)
+
 <!-- Commenting out this part - it is too much of a PITA
 
 After you refactor the project name, refactor the package names, change the locations specified in **Web.xml** and the JSP's, as well as the context folder specified in **main()** so that they all refer to **lab02a\_username**. Verify that both of the **AddNumbers** and **GuessingGame** WebApps still work - you will no longer be able to use the URL links included on the **CS320\_Lab02** page, you will need to modify those URLs to replace **lab02** with **lab02a\_username**.  You should save those new URLs as bookmarks in your browser.
