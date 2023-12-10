@@ -5,6 +5,13 @@ title: Home page
 
 # Welcome to CS 320, Spring 2023!
 
+There was no course website used for CS320 for Spring 2023.
+
+[Professor Hake's CS320 course website from Spring 2022.](https://ycpcs.github.io/cs320-spring2022)
+
+
+<!--
+
 This is the website for CS 320, Spring 2023 at York College.
 All information about the course will be posted here.
 
@@ -22,6 +29,8 @@ All information about the course will be posted here.
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 
 ## News
+
+-->
 
 <!-- Commenting out News until it's needed - and the dates will change, anyway
 
@@ -91,6 +100,6 @@ All information about the course will be posted here.
 * **Jan 27** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html). 
 * **Jan 27** - [Lab01: HTML and CSS](labs/lab01.html) is posted and is **due by 7:00am, Thursday, 2-3-22**. 
 
--->
-
 * **Jan 27** - Welcome back to Kinsley and the most **FUN** you've ever had in a CS course (and where you'll discover just how much **WORK** it takes to have so much **FUN**...!  :-)
+
+-->
