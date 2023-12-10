@@ -4,14 +4,6 @@ layout: default
 title: README
 ---
 
-This is the website for CS 320, Spring 2023 at York College of Pennsylvania.
+There was no course website used for CS 320, Spring 2023 at York College of Pennsylvania.
 
-Unless indicated otherwise, all materials are
-
-Copyright (c) 2006-2023, Donald J. Hake II &lt;<djhake2@ycp.edu>&gt; and David H. Hovemeyer &lt;<dhovemey@ycp.edu>&gt;
-
-Unless indicated otherwise, all of the materials on this website are open source, and may be used, modified, and redistributed under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">CC-BY-SA 3.0</a> license.
-
-This website is a git repository hosted on Github: <https://github.com/ycpcs/cs320-spring2023>
-
-Please feel to use anything here that you find useful, and let us know if you have any comments or suggestions!
+Although Professor Hake started to create the website, the instructor for CS320, Spring 2023 chose to go in a different direction.
